@@ -1,0 +1,101 @@
+StudentID,Name,Age,Gender,Department,GPA,CreditsCompleted,Email
+S1000,Brett Anderson,19,Female,Computer Science,3.78,115,stephaniezimmerman@lara-webb.com
+S1001,Melissa Rhodes,18,Female,Business,3.48,72,thomasbenjamin@hotmail.com
+S1002,Spencer Solomon,22,Female,Computer Science,2.31,109,nicoleflores@hotmail.com
+S1003,Jeremy Hill,21,Male,Computer Science,2.56,70,daniellebarnes@hotmail.com
+S1004,Brian Campbell,21,Male,Electrical,2.42,114,aaronjohnson@gmail.com
+S1005,Patricia Moore,20,Female,Electrical,2.69,138,kimberly88@gmail.com
+S1006,Dustin Lloyd,19,Female,Civil,3.37,45,christopher12@hotmail.com
+S1007,Joshua Klein,19,Male,Civil,3.71,122,stevensjessica@reyes.com
+S1008,Ashley Thompson,24,Female,Civil,3.01,68,shannon70@hotmail.com
+S1009,David Gardner,18,Female,Electrical,2.5,94,cfriedman@gmail.com
+S1010,Rebecca Flynn,18,Male,Civil,3.82,69,montgomerybrooke@herrera-anderson.org
+S1011,Anthony Johnson,19,Female,Computer Science,2.1,115,becky99@hotmail.com
+S1012,Kristy Hall,21,Male,Electrical,3.27,82,jmann@gmail.com
+S1013,Kristina Williams,21,Female,Civil,3.66,71,mparker@hotmail.com
+S1014,Matthew Green,18,Male,Computer Science,2.09,81,sspencer@munoz.com
+S1015,Christian Perez,21,Male,Civil,2.67,119,reneewebb@gmail.com
+S1016,Heather Burnett,24,Female,Mechanical,2.26,67,dylanchang@barrera.com
+S1017,John Curtis,21,Male,Civil,3.96,100,laurienicholson@anderson.com
+S1018,Michael Ryan,25,Male,Mechanical,2.32,46,mcdonaldtristan@yahoo.com
+S1019,Lynn Wilson,22,Female,Civil,2.88,54,janet02@howard.com
+S1020,Kendra Bryant,18,Male,Business,3.41,83,megan24@gmail.com
+S1021,Michelle Harris,20,Male,Civil,3.12,115,edward66@snyder-matthews.com
+S1022,Brandi Riley,24,Female,Electrical,2.22,78,youngjohn@hood.com
+S1023,Oscar Taylor,23,Female,Electrical,3.89,116,lauren19@yahoo.com
+S1024,Denise Rogers,22,Male,Mechanical,3.38,125,abryant@white.com
+S1025,Scott Charles,20,Male,Electrical,2.3,52,brian57@hotmail.com
+S1026,Travis Weber,21,Female,Computer Science,2.07,108,xkirk@yahoo.com
+S1027,Christopher Carr,23,Female,Business,2.74,102,john07@james.com
+S1028,Amy Robbins,19,Male,Business,3.11,68,dchase@hotmail.com
+S1029,Jenna Frye,19,Male,Computer Science,2.86,81,rjackson@hotmail.com
+S1030,Juan Dickson,24,Male,Mechanical,2.08,100,erikaodom@yahoo.com
+S1031,Kelsey Gonzalez,19,Male,Computer Science,2.73,136,cameronyoung@gmail.com
+S1032,Lisa Johnson,23,Male,Computer Science,3.87,30,marythomas@mckee.info
+S1033,Benjamin Hawkins,23,Female,Business,3.94,68,jennifer33@yahoo.com
+S1034,Mark Nguyen,22,Male,Civil,2.08,66,oerickson@gmail.com
+S1035,Christopher Beasley,18,Male,Business,2.72,56,heatherdavis@hotmail.com
+S1036,Darrell Peck,25,Male,Business,3.36,85,twyatt@mitchell-kaufman.com
+S1037,Curtis Guerrero,19,Female,Electrical,3.33,130,alexhardy@watts.com
+S1038,Matthew Sims,24,Male,Computer Science,2.71,104,bjohnson@young.biz
+S1039,Amanda George,19,Female,Business,3.12,107,vincentjames@hotmail.com
+S1040,Briana Cross,22,Female,Computer Science,3.75,113,earl48@gmail.com
+S1041,Thomas Henry,23,Male,Electrical,3.95,71,livingstonsarah@beltran-dunn.biz
+S1042,Michael Johnson,21,Male,Computer Science,3.5,89,timothy73@yahoo.com
+S1043,Alvin Park,19,Female,Business,3.85,86,duncantyler@hotmail.com
+S1044,Theodore Patel,18,Female,Computer Science,2.47,86,tvillegas@hotmail.com
+S1045,Tina Zimmerman,21,Female,Electrical,2.33,116,harrellariel@shelton.com
+S1046,Patricia Williams,22,Female,Civil,3.6,57,brittney95@ellis-prince.com
+S1047,Scott Johnson,19,Female,Computer Science,2.35,95,owebb@west-solis.net
+S1048,Vincent Duncan,21,Male,Business,2.82,90,christopher47@yahoo.com
+S1049,Kimberly Rivera,19,Male,Electrical,2.36,131,schultzchristopher@yahoo.com
+S1050,Theresa Swanson,24,Male,Business,3.85,131,rkane@gmail.com
+S1051,Sarah Buckley,22,Male,Business,3.56,124,vhickman@gmail.com
+S1052,Angel Morris,25,Female,Computer Science,2.82,51,amandarose@george-campos.com
+S1053,Matthew Garcia,23,Male,Business,3.34,114,scottcynthia@hotmail.com
+S1054,Tammy Lewis,20,Male,Computer Science,3.47,40,janetsullivan@lucas.com
+S1055,Kyle Brown,23,Male,Civil,2.5,66,franklinkimberly@gmail.com
+S1056,Michael Ramsey,23,Male,Business,2.32,95,gregoryvaughn@russell.com
+S1057,Kristen Miller,21,Male,Business,3.4,114,dmorrison@yahoo.com
+S1058,Colleen Koch,22,Male,Business,2.77,111,christianwashington@yahoo.com
+S1059,James Blair,19,Male,Mechanical,2.08,109,kelleynicholas@yahoo.com
+S1060,Jodi Mendez,20,Male,Mechanical,2.94,72,karengreer@jackson.org
+S1061,Jamie Peterson,21,Male,Electrical,2.4,41,sotoamy@nguyen.com
+S1062,Alexandra Martin,20,Female,Mechanical,3.84,134,patriciarodriguez@henderson-allen.com
+S1063,Theodore Gonzalez,25,Male,Electrical,2.7,126,bsmith@jennings.com
+S1064,Lisa Johnson,24,Male,Mechanical,3.64,60,davismatthew@long.com
+S1065,Andrew Douglas III,22,Female,Civil,3.74,116,teresa27@yahoo.com
+S1066,Wayne Armstrong,21,Female,Electrical,2.45,69,whiteclaudia@hotmail.com
+S1067,Jeffery Allen,23,Male,Mechanical,3.32,58,fcameron@nelson.com
+S1068,John Dawson,18,Male,Civil,2.8,133,grhodes@yahoo.com
+S1069,Jennifer Wells,21,Female,Mechanical,2.56,55,nicholemartinez@holloway.com
+S1070,Paul Barnes,18,Male,Computer Science,2.14,48,amyperez@hotmail.com
+S1071,Bonnie Floyd,23,Female,Computer Science,3.55,33,robin74@yahoo.com
+S1072,Sara Farmer,24,Female,Civil,2.7,35,spencergonzalez@hotmail.com
+S1073,Joseph Johnson,22,Male,Business,3.02,61,michael92@gmail.com
+S1074,Jeremy Moon,19,Male,Business,3.36,90,rsimon@hotmail.com
+S1075,Dakota Thompson,21,Male,Computer Science,3.69,108,julie57@moore-moore.com
+S1076,Cheryl Gill,23,Female,Computer Science,2.66,138,lmcintyre@key-johnson.org
+S1077,Chelsea West,21,Female,Business,2.06,128,daviswillie@gmail.com
+S1078,Kim Lara,25,Female,Electrical,3.75,39,ricethomas@gmail.com
+S1079,Crystal Morales,24,Female,Business,2.52,88,ryan04@jackson-white.com
+S1080,Stephanie Spencer,25,Female,Mechanical,3.16,83,jonathangriffin@lane-lowe.net
+S1081,Carlos Jones,20,Male,Electrical,3.97,110,cynthia37@fowler-boyle.com
+S1082,Kenneth Brown,22,Male,Mechanical,2.08,103,eday@hotmail.com
+S1083,Ellen Burke,20,Male,Computer Science,3.19,54,ronalddavis@brown.com
+S1084,Rebecca Obrien,21,Female,Electrical,2.69,121,rodriguezbridget@williams-martin.com
+S1085,Amanda Snow,22,Female,Mechanical,3.57,119,brownmark@yahoo.com
+S1086,Joseph Marsh,24,Male,Mechanical,2.87,79,jdavid@yahoo.com
+S1087,Alan Kline,24,Male,Electrical,3.97,93,petersonjohn@hotmail.com
+S1088,Jessica Wagner,23,Male,Civil,2.23,81,michelle73@zavala-gonzales.biz
+S1089,Victor Montgomery,21,Male,Business,3.8,61,weeksnoah@yahoo.com
+S1090,Thomas Larson,20,Female,Mechanical,2.38,48,johnpeterson@boyer-gibson.biz
+S1091,Courtney Madden,25,Male,Business,2.09,113,ebony42@yahoo.com
+S1092,Gregory Daniel,19,Female,Business,2.87,118,kempheather@hotmail.com
+S1093,Robert Obrien,18,Male,Computer Science,3.04,30,dfoster@hotmail.com
+S1094,Jonathan Benitez,19,Female,Business,3.61,126,sjones@yahoo.com
+S1095,Tanya Kelly,20,Female,Mechanical,3.37,140,jessicaparsons@serrano.com
+S1096,Mrs. Suzanne Morrow,20,Male,Computer Science,3.88,128,richardshort@ross.info
+S1097,Joshua Lee,24,Male,Electrical,3.47,43,mcdonaldedward@solomon-smith.net
+S1098,Alexander Hanna,19,Female,Mechanical,2.39,129,salazarbenjamin@paul.com
+S1099,Sandra Wiggins,24,Male,Computer Science,2.86,84,mendezstephen@harper-thomas.com
